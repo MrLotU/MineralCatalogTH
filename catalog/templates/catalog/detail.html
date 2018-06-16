@@ -26,7 +26,7 @@
             <table class="mineral__table">
               {% for key, val in mineral.fields_dict.items %}
                 <tr>
-                  <td class="mineral__category">{{ key|lower|capfirst }}</td>
+                  <td class="mineral__category">{{ key|lower|title }}</td>
                   <td>{{ val|safe }}</td>
                 </tr>
               {% endfor %}
