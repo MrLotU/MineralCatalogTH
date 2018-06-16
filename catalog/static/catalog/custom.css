@@ -1,0 +1,7 @@
+body { background-color: rgb(229, 202, 202); }
+.minerals__random { background-color: #403333; box-shadow: 0 0 100px 50px #CAE5D2; color: #fff; padding: 20px 0 20px 0; position: fixed; bottom: 0; text-align: center; width: 100%; }
+
+.logo { display: block; fill: #403333; position: relative; margin: 0 auto; width: 72px; }
+.logo__name { margin-bottom: 0; color: #403333; }
+.logo__text { margin-bottom: 50px; font-size: 13px; color: #403333; }
+.logo--middle { fill: #6b4040; }
