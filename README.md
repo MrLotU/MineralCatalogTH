@@ -1,7 +1,7 @@
 # Mineral Catalog TH
 
 ## NOTE: THIS IS THE BRANCH FOR PROJECT 8
-### To view project 6, go [here](https://github.com/MrLotU/MineralCatalogTHtree/Project6)
+### To view project 6, go [here](https://github.com/MrLotU/MineralCatalogTH/tree/Project6)
 
 Before running the app, you have to load up the database. First, run `python manage.py migrate`
 
